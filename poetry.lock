@@ -2000,13 +2000,13 @@ typing-extensions = {version = ">=4.1.0", markers = "python_version < \"3.12\""}
 
 [[package]]
 name = "mypy-boto3-cloudformation"
-version = "1.34.84"
-description = "Type annotations for boto3.CloudFormation 1.34.84 service generated with mypy-boto3-builder 7.23.2"
+version = "1.34.111"
+description = "Type annotations for boto3.CloudFormation 1.34.111 service generated with mypy-boto3-builder 7.24.0"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "mypy_boto3_cloudformation-1.34.84-py3-none-any.whl", hash = "sha256:580954031cb3650588b91f592e8f51855b2ff435d763ac0d69cf271c8433315f"},
-    {file = "mypy_boto3_cloudformation-1.34.84.tar.gz", hash = "sha256:82d14df3757f30b5a1d34650839d415d265d4de41cf355d63e10221fcc67f177"},
+    {file = "mypy_boto3_cloudformation-1.34.111-py3-none-any.whl", hash = "sha256:526e928c504fa2880b1774aa10629a04fe0ec70ed2864ab3d3f7772386a1a925"},
+    {file = "mypy_boto3_cloudformation-1.34.111.tar.gz", hash = "sha256:a02e201d1a9d9a8fb4db5b942d5c537a4e8861c611f0d986126674ac557cb9e8"},
 ]
 
 [package.dependencies]
@@ -2084,13 +2084,13 @@ typing-extensions = {version = ">=4.1.0", markers = "python_version < \"3.12\""}
 
 [[package]]
 name = "mypy-boto3-secretsmanager"
-version = "1.34.107"
-description = "Type annotations for boto3.SecretsManager 1.34.107 service generated with mypy-boto3-builder 7.24.0"
+version = "1.34.109"
+description = "Type annotations for boto3.SecretsManager 1.34.109 service generated with mypy-boto3-builder 7.24.0"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "mypy_boto3_secretsmanager-1.34.107-py3-none-any.whl", hash = "sha256:bca19ae496e9965266ef885578fdb2bc8ee3e84dea7eaaffe030a368f218d207"},
-    {file = "mypy_boto3_secretsmanager-1.34.107.tar.gz", hash = "sha256:cf1b3c66542efd260595baf7dcd69ffe4648e8e813de8ebba455d83fc70eccb4"},
+    {file = "mypy_boto3_secretsmanager-1.34.109-py3-none-any.whl", hash = "sha256:18c60597a72ef08bad722f1c2f4507a0cf853c1526b1cffb8c3d2a30f5649d1f"},
+    {file = "mypy_boto3_secretsmanager-1.34.109.tar.gz", hash = "sha256:29898fb1046fed5f83d05f08470d5cf07dfd1656b1da23f2bb875c9ff734ee65"},
 ]
 
 [package.dependencies]
@@ -3627,4 +3627,4 @@ validation = ["fastjsonschema"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.8,<4.0.0"
-content-hash = "a4be6c05f54c1250f01b4900580ebd2fb2d2a4b30c58c7ab74954a75a7549400"
+content-hash = "85f1b419ee67303d649e27d8fb4ace1385affdb9fabc50fa915fb47ac8e967c7"
